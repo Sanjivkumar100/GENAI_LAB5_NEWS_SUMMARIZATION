@@ -187,11 +187,3 @@ The diagrams in the document illustrate the flow of article input, LLM summariza
 # 🚀 Conclusion
 
 This project successfully demonstrates how **Large Language Models (LLMs)** can be integrated with **Text-to-Speech technology** to create an intelligent news summarization system. By leveraging the **Google Gemini API**, the application provides fast, accurate, and user-friendly summarization with audio accessibility support, showcasing the real-world potential of AI-powered solutions. 
-
----
-
-# 📚 Author
-
-**Sanjiv Kumar**
-B.Tech Information Technology
-AI & Data Science Enthusiast
